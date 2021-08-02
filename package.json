@@ -1,0 +1,21 @@
+{
+  "name": "turtle-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.4.10",
+    "@types/ws": "^7.4.7",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
